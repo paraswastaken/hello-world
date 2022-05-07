@@ -2,3 +2,8 @@
     color: aquamarine;
     background-color: black;
 }
+
+img {
+    height: auto;
+    width: 400px;
+}
