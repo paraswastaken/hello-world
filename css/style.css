@@ -1,11 +1,15 @@
 * {
-    color: rgb(33, 30, 70);
-    background-color: #eee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #0b0c10;
 }
 
 img {
+    display: block;
     height: auto;
-    width: 400px;
+    width: 50%;
+    margin: auto;
+    border-radius: 5px;
 }
 
 body {
@@ -16,7 +20,21 @@ h1 {
     text-align: center;
 }
 
-div {
-    background-color: antiquewhite;
+div, p {
+    border-color: #66fcf1;
+    padding: 8px 16px 8px 8px;
+    border-style: solid;
+    border-radius: 0px 8px 48px;
+    border-width: 1px;
+}
+
+p {
     padding: 16px;
+}
+
+h1, h2 {
+    color: #66fcf1;
+    background-color: #1f2833;
+    padding: 12px;
+    border-radius: 0px 8px 32px;
 }
