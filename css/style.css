@@ -1,9 +1,22 @@
 * {
-    color: aquamarine;
-    background-color: black;
+    color: rgb(33, 30, 70);
+    background-color: #eee;
 }
 
 img {
     height: auto;
     width: 400px;
+}
+
+body {
+    margin: 18px 150px;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    background-color: antiquewhite;
+    padding: 16px;
 }
