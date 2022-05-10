@@ -8,13 +8,13 @@
 img {
     display: block;
     height: auto;
-    width: 50%;
+    width: 60%;
     margin: auto;
     border-radius: 5px;
 }
 
 body {
-    margin: 18px 150px;
+    margin: 18px 20%;
 }
 
 h1 {
